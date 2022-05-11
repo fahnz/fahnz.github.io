@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+div {
+text-align: center;  
+}
+h1 {
+  text-align: center;
+}
+ul {
+  text-align: center;
+  list-style: none;
+}
+li {
+  text-align: center;
+}
